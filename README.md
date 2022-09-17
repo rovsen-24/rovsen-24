@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rovsen-24
+- 👋 Hi, I’m @rovshen-24
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning vue js
 - 💞️ I’m looking to collaborate on companies 
